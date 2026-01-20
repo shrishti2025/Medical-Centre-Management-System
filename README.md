@@ -1,11 +1,37 @@
-# Medical-Centre-Management-System
-Role-based Medical Center Management System using Java, Spring Boot and MySQL
+# Medical Centre Management System (Microservices)
 
-User Roles : Admin,Doctor,Pharmacist,Patient,Receptionist
+This project is a Medical Centre Management System built using
+Spring Boot Microservices, MySQL, Spring Security (JWT), and React.
 
-Tech Stack: 
-Backend: Java (J2EE / Servlets / JDBC/ Spring Boot)
-Frontend: HTML, CSS, JavaScript, React.js
-Database: MySQL
-Server: Apache Tomcat
-Version Control: Git, GitHub
+## Architecture
+- Microservices-based architecture
+- Each service has its own database
+- Communication via REST APIs
+- JWT-based authentication
+
+## Microservices List
+- Auth Service
+- Patient Service
+- Doctor Service
+- Appointment Service
+- Pharmacy Service
+- Billing Service
+
+## GitHub Repositories
+- Auth Service: https://github.com/<org>/medical-auth-service
+- Patient Service: https://github.com/<org>/medical-patient-service
+- Doctor Service: https://github.com/<org>/medical-doctor-service
+- Appointment Service: https://github.com/<org>/medical-appointment-service
+- Pharmacy Service: https://github.com/<org>/medical-pharmacy-service
+- Billing Service: https://github.com/<org>/medical-billing-service
+
+## Tech Stack
+- Java 17
+- Spring Boot
+- Spring Security (JWT)
+- MySQL
+- React
+
+
+
+
