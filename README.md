@@ -19,7 +19,7 @@ Spring Boot Microservices, MySQL, Spring Security (JWT), and React.
 - Billing Service
 
 ## GitHub Repositories
-- Auth Service: https://github.com/<org>/medical-auth-service
+- Auth Service: https://github.com/BhumikaJoshi13/medical-auth-service
 - Patient Service: https://github.com/shrishti2025/medical-patient-service
 - Doctor Service: https://github.com/Vandana-Chouhan/medical-doctor-service/tree/dev
 - Prescription Service : https://github.com/Vandana-Chouhan/medical-prescription-service.git
