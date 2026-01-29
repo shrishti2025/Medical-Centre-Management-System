@@ -22,7 +22,7 @@ Spring Boot Microservices, MySQL, Spring Security (JWT), and React.
 - Patient Service: https://github.com/shrishti2025/medical-patient-service
 - Doctor Service: https://github.com/<org>/medical-doctor-service
 - Appointment Service: https://github.com/<org>/medical-appointment-service
-- Pharmacy Service: https://github.com/<org>/medical-pharmacy-service
+- Pharmacy Service: https://github.com/RuchitaBagal/medical-pharmacy-service/tree/dev
 - Billing Service: https://github.com/<org>/medical-billing-service
 
 ## Tech Stack
