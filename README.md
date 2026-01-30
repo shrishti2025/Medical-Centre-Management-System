@@ -25,7 +25,6 @@ Spring Boot Microservices, MySQL, Spring Security (JWT), and React.
 - Prescription Service : https://github.com/Vandana-Chouhan/medical-prescription-service.git
 - Appointment Service: https://github.com/nisheetathakur/medical-appointment-service
 - Pharmacy Service: https://github.com/RuchitaBagal/medical-pharmacy-service/tree/dev
-- Billing Service: https://github.com/<org>/medical-billing-service
 
 ## Tech Stack
 - Java 17
