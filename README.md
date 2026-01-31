@@ -8,6 +8,7 @@ Spring Boot Microservices, MySQL, Spring Security (JWT), and React.
 - Each service has its own database
 - Communication via REST APIs
 - JWT-based authentication
+  
 
 ## Microservices List
 - Auth Service
